@@ -1,0 +1,2 @@
+My name is TamVo, I'm a QA Engineer
+Currently, I'm studying Playwright automation
